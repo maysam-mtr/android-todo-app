@@ -1,8 +1,8 @@
-# android task management app
-# To-Do List App
-To-Do List App is a powerful, flexible, and easy-to-use application developed in Android Studio with the help of Java and XML. The goal of the To-Do List is to help you manage your tasks and time more effectively. The user-friendly interface makes it easy for anyone to generate, update, and manage tasks.
+# Android-based Task Management App
 
-The To-Do list app is a comprehensive task management solution that offers a wide range of features to help you organize your tasks and manage your time more effectively. Whether you have multiple projects to manage at work, household chores to keep track of, or just want to keep track of your to-do list on a daily basis, this app has everything you need to manage everything efficiently.
+This is a powerful, flexible, and easy-to-use application developed in Android Studio with the help of Java and XML. Its goal is to help you manage your tasks and time more effectively. The user-friendly interface makes it easy for anyone to generate, update, and manage tasks.
+
+This app is a comprehensive task management solution that offers a wide range of features to help you organize your tasks and manage your time more effectively. Whether you have multiple projects to manage at work, household chores to keep track of, or just want to keep track of your to-do list on a daily basis, this app has everything you need to manage everything efficiently.
 # Functionalities:
 **Task Management**: Users can create new tasks, set their priority, and assign them to different categories or lists. Each task can have a title, description, due date, and priority level. Tasks can be edited or deleted as needed.
 
